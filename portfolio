@@ -1,5 +1,2 @@
 mkdir mari-portfolio-site
 cd mari-portfolio-site
-git clone https://github.com/11ty/eleventy-base-blog.git .
-npm install
-npx @11ty/eleventy
